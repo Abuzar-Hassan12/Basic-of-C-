@@ -1,0 +1,3 @@
+﻿  is string isplaindrome.cpp
+D:\C++\PROJECTS\is string isplaindrome\is string isplaindrome.cpp(8,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  is string isplaindrome.vcxproj -> D:\C++\PROJECTS\is string isplaindrome\x64\Debug\is string isplaindrome.exe

@@ -1,0 +1,5 @@
+﻿  calculater switch and function.cpp
+D:\C++\PROJECTS\calculater switch and function\calculater switch and function.cpp(5,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\PROJECTS\calculater switch and function\calculater switch and function.cpp(10,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++\PROJECTS\calculater switch and function\calculater switch and function.cpp(14,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  calculater switch and function.vcxproj -> D:\C++\PROJECTS\calculater switch and function\x64\Debug\calculater switch and function.exe

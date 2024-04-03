@@ -1,0 +1,7 @@
+﻿  moshin.cpp
+D:\C++\PROJECTS\moshin\moshin.cpp(6,5): error C2065: 'cout': undeclared identifier
+D:\C++\PROJECTS\moshin\moshin.cpp(7,5): error C2065: 'cin': undeclared identifier
+D:\C++\PROJECTS\moshin\moshin.cpp(8,5): error C2065: 'cout': undeclared identifier
+D:\C++\PROJECTS\moshin\moshin.cpp(19,9): error C2065: 'cout': undeclared identifier
+D:\C++\PROJECTS\moshin\moshin.cpp(21,5): error C3872: '0xa0': this character is not allowed in an identifier
+D:\C++\PROJECTS\moshin\moshin.cpp(21,5): error C2065: 'return fact': undeclared identifier

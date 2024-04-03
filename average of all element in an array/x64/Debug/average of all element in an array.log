@@ -1,0 +1,3 @@
+﻿  average of all element in an array.cpp
+D:\C++\PROJECTS\average of all element in an array\average of all element in an array.cpp(12,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  average of all element in an array.vcxproj -> D:\C++\PROJECTS\average of all element in an array\x64\Debug\average of all element in an array.exe
